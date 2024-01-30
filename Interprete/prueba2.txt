@@ -1,0 +1,7 @@
+a=2;
+load prueba.txt
+100*2;
+v=b=sin(180);
+v;
+b;
+quit
